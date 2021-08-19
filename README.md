@@ -1,2 +1,2 @@
 # imag-dump
-luigi
+dude im using gitbub for img hostin
